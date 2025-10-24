@@ -1,0 +1,3 @@
+- Sarcina 1: Inițializare repo
+- Sarcina 2: Creare branch local
+- Sarcina 3: Îmbinare și PR
