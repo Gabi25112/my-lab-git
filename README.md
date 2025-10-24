@@ -1,2 +1,1 @@
-# Laborator Git
-Adăugat secțiune pentru task-uri
+Aceasta este versiunea din main
