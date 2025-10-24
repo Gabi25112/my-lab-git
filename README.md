@@ -1,1 +1,1 @@
-Aceasta este versiunea din main
+Aceasta este versiunea din conflict-test
